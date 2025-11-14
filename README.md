@@ -25,7 +25,7 @@ The journey continues as we dive deeper into the realm of deep learning. Stay tu
 Special thanks to our dedicated contributors who have made significant contributions to this project:
 
 - **Murtaza Vora** 
-- **Gunjan Paladiya** 
+- **Abhilash Dikshit** 
 - **Milan Prajapati**
 - **Chinthaka Dinesh** 
 
